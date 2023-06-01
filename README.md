@@ -11,8 +11,8 @@
 I'm lucixno and I typically work with JavaScript and Python. I started learning how to code about 2022-23, when I was interested in making discord selfbots/nukers. I'm still a beginner when it goes in the direction of programming. Besides programming I also like to design banners and logos. Hopefully in the future, I can get into graphicdesign.
 
 ## Current projects
-* [Soulreaper][(https://github.com/lucixno/soulreaper-v2)] - Discord server nuker
-* [ZEB] - [(https://github.com/lucixno/zeb)]
+* [Soulreaper](https://github.com/lucixno/soulreaper-v2) - Discord server nuker
+* [ZEB] - (https://github.com/lucixno/zeb)
 
 ## Languages I know
 * JavaScript
