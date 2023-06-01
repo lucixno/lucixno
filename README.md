@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey I'm verlox 👋
+# Hey I'm lucixno 👋
 ## rocking since '23
 
 ![lucixno's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucixno&show_icons=true&theme=radical)
