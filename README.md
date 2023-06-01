@@ -12,7 +12,7 @@ I'm lucixno and I typically work with JavaScript and Python. I started learning 
 
 ## Current projects
 * [Soulreaper](https://github.com/lucixno/soulreaper-v2) - Discord server nuker
-* [ZEB] - (https://github.com/lucixno/zeb)
+* [ZEB] (https://github.com/lucixno/zeb)
 
 ## Languages I know
 * JavaScript
